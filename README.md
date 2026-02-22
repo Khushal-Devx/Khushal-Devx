@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Undergraduate Computing student at Dublin Business School<br>Passionate about coding and technology<br>Eager to learn and apply new skills in real-world projects<br>Aiming to enhance expertise and secure opportunities at top tech companies<br>Motivated, curious, and always ready to take on new challenges<br><br>ask me about : python programming, gym and sports 
+I am an Undergraduate Computing student at Dublin Business School<br>Passionate about coding and technology<br>Aiming to secure opportunities at top tech companies<br>Motivated, curious, and always ready to take on new challenges<br><br>ask me about : python programming, gym and sports 
 
 
 ## 🌐 Connect with me:
